@@ -31,3 +31,4 @@
 ## Unit Testing
 
 ## Git Version Control
+Git là một hệ thống quản lý phiên bản (VCS), một loại VCS phân tán chạy nhanh, ổn định, dễ sử dụng. Git là mã nguồn mở, có thể cài đặt và sử dụng trên nhiều nền tảng.
